@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1641249210561,
+  "timestamp": 1641286510909,
   "index": "/iptvnator/index.html",
   "assetGroups": [
     {
@@ -16,10 +16,10 @@
         "/iptvnator/876.178e3071c3bf1ea2.js",
         "/iptvnator/common.ed3e296eb44f4fb7.js",
         "/iptvnator/index.html",
-        "/iptvnator/main.a5c40b42e7bec1ba.js",
+        "/iptvnator/main.0b5d39e15989d6fa.js",
         "/iptvnator/manifest.webmanifest",
         "/iptvnator/polyfills.1d42886f5895d9c9.js",
-        "/iptvnator/runtime.983e51ac9e0362ba.js",
+        "/iptvnator/runtime.bfad55d6c88cad50.js",
         "/iptvnator/styles.a0a70187cea3b61e.css"
       ],
       "patterns": []
@@ -116,11 +116,11 @@
     "/iptvnator/assets/updates/090/reorder-playlists.gif": "d65d95a927a6e0fd91e94405720324e8fa9d1aec",
     "/iptvnator/assets/updates/090/subtitle-option.png": "18b3ae09a505aff70bd9410411e878f11c263024",
     "/iptvnator/common.ed3e296eb44f4fb7.js": "c0c062389a6f248002971e2511c0859e55e8eb4d",
-    "/iptvnator/index.html": "bc2257422614e74a261d13bd13c1c32a0ffbe317",
-    "/iptvnator/main.a5c40b42e7bec1ba.js": "835c6e4756a7b494064e02e94082d0e44b069d7f",
+    "/iptvnator/index.html": "926566eb9324e9429a48e707f794bc5e93754406",
+    "/iptvnator/main.0b5d39e15989d6fa.js": "835c6e4756a7b494064e02e94082d0e44b069d7f",
     "/iptvnator/manifest.webmanifest": "3dd8edcae19af0afb0f9dbe0d2573c78c103c0b0",
     "/iptvnator/polyfills.1d42886f5895d9c9.js": "a5be8ec5c79969db2cec1e7af4fcceae542b2488",
-    "/iptvnator/runtime.983e51ac9e0362ba.js": "f70ec058ab3863fdbb53a64860f01126e3005676",
+    "/iptvnator/runtime.bfad55d6c88cad50.js": "f126d0c7c0652749355802c9d10dc9316fc38c1a",
     "/iptvnator/styles.a0a70187cea3b61e.css": "27c972cebd1367c3fb010abe61b1f643074ea291"
   },
   "navigationUrls": [
